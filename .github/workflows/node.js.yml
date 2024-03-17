@@ -32,7 +32,11 @@ jobs:
       run: npm install
 
     - name: Build the app
-      run: npm run build
+      run: |
+        npm run build
+        ls -l  # Debugging: List contents of the current directory
+        ls -l build  # Debugging: List contents of the build directory
+
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.1.4
