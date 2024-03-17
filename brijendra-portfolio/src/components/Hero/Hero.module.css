@@ -53,12 +53,24 @@ span{
     width: 4rem;
     height: 4rem;
     background: transparent;
-    border: .2rem solid var(--main-color);
     border-radius: 50%;
     font-size: 2rem;
     color: var(--main-color);
     margin: 3rem;
     transition: .5s ease;
+}
+
+.hackerrankImg{
+    filter: invert(1);
+    mix-blend-mode: difference;
+    width: 5rem;
+    height: 5rem;
+}
+.leetcodeImg{
+    width: 4rem;
+    height: 4rem;
+    filter: invert(1);
+    mix-blend-mode: difference;
 }
 
 .social_media a:hover{
