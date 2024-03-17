@@ -52,4 +52,4 @@ jobs:
       with:
         branch: gh-pages  
         folder: build    
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.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 }}
