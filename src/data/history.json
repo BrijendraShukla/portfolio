@@ -1,20 +1,26 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "SOFTWARE ENGEINEER",
+    "organisation": " NAGARRO",
+    "startDate": "July, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Developing dynamic mobile application using React-Native, Axios, and TypeScript.", "Collaborating with cross-functional teams for efficient frontend solutions."],
+    "imageSrc": "history/nagarro.png"
   },
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "ASSOCIATE SOFTWARE ENGEINEER ",
+    "organisation": "NAGARRO",
+    "startDate": "August, 2022",
+    "endDate": "- June, 2023",
+    "experiences": ["Developed and maintained dynamic web application using React.js, Redux and related Web Technologies.", "Designed and implemented RESTful APIs using Django Rest framework for frontend-backendcommunication.", "Conducted thorough testing using Postman and worked on PostgreSQL."],
+    "imageSrc": "history/nagarro.png"
+  },
+  {
+    "role": "INTERN",
+    "organisation": "NAGARRO",
+    "startDate": " February 2022",
+    "endDate": "August, 2022",
+    "experiences": ["Gained expertise in front-end technologies, SQL databases and Version Control (Git)."],
+    "imageSrc": "history/nagarro.png"
   }
- 
-  
 ]

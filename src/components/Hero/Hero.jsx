@@ -12,7 +12,7 @@ export const Hero = () => {
     delaySpeed:300,
   })
   return (
-    <section className={styles.home} id={styles.home}>
+    <section className={styles.home} id="home">
       <div className={styles.home_content}>
         <h3>Hi, Myself</h3>
         <h1>Brijendra Shukla</h1>
