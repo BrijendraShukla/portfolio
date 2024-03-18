@@ -11,8 +11,8 @@
     "role": "ASSOCIATE SOFTWARE ENGEINEER ",
     "organisation": "NAGARRO",
     "startDate": "August, 2022",
-    "endDate": "- June, 2023",
-    "experiences": ["Developed and maintained dynamic web application using React.js, Redux and related Web Technologies.", "Designed and implemented RESTful APIs using Django Rest framework for frontend-backendcommunication.", "Conducted thorough testing using Postman and worked on PostgreSQL."],
+    "endDate": "June, 2023",
+    "experiences": ["Developed and maintained dynamic web application using React.js, Redux and related Web Technologies.", "Designed and implemented RESTful APIs using Django Rest framework for frontend-backend communication.", "Conducted thorough testing using Postman and worked on PostgreSQL."],
     "imageSrc": "history/nagarro.png"
   },
   {
